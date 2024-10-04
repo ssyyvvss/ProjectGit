@@ -1,0 +1,3 @@
+mastergit  branch sentence
+
+one more line to master branch
